@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj Krishnan V</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A Machine Learning Researcher working in Healthcare </h3>
 
 - 👨‍💻 All of my projects are available at []()
 
-- 📫 How to reach me **rajkrishnanv@gmail.com**
+- 📫 How to reach me **raj.vijayaraj@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
